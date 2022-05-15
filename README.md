@@ -6,6 +6,11 @@ This software is currently under development and single cryptocurrency pair can 
 
 1. Provide BtcTurk public and secret API keys.
 
+2. Run the command below. In case of a missing dependency error, simply run 'pip install'.
+
+```bash
+python3 arbitrage_hunter.py
+```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
