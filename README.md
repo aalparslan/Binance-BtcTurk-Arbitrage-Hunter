@@ -4,7 +4,7 @@ This software is currently under development and single cryptocurrency pair can 
 
 ## Usage
 
-1. Provide BtcTurk public and secret API keys.
+1. Provide BtcTurk public and secret API keys in 'btcretrieve.py'.
 
 2. Run the command below. In case of a missing dependency error, simply run 'pip install'.
 
